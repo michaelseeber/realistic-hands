@@ -13,8 +13,8 @@ under review
 coming soon
 
 ## Master Thesis (for more background)
-The paper describes a newer and improved approach, however the original thesis includes more background information that may be of interest.
-[Master Thesis](https://github.com/michaelseeber/realistic-hands/files/7065803/Master_Thesis_Michael_Seeber.pdf)
+The paper describes a newer and improved approach, however the original [thesis](https://github.com/michaelseeber/realistic-hands/files/7065803/Master_Thesis_Michael_Seeber.pdf) includes more background information that may be of interest.
+
 
 
 
