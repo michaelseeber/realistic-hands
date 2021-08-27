@@ -12,3 +12,9 @@ under review
 ## Code:
 coming soon
 
+## Master Thesis (for more background)
+The paper describes a newer, improved approach.
+[Master_Thesis_Michael_Seeber.pdf](https://github.com/michaelseeber/realistic-hands/files/7065803/Master_Thesis_Michael_Seeber.pdf)
+
+
+
