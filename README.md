@@ -1,8 +1,10 @@
 # Realistic Hands: A Hybrid Model for 3D Hand Reconstruction
 
-## Paper: under review
+## Paper
+under review
 
-## Code: coming soon
+## Code:
+coming soon
 
 ## Video:
 
