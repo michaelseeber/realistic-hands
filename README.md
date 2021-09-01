@@ -7,7 +7,7 @@ e.g. to occlusions, they are less expressive. We propose a hybrid approach, util
 https://user-images.githubusercontent.com/6824631/131100487-a051e14e-8f66-4ddc-82c2-ebb1fb83fdfc.mp4
 
 ## Paper
-under review
+arxiv: https://arxiv.org/abs/2108.13995?context=cs
 
 ## Code:
 coming soon
